@@ -1,0 +1,5 @@
+C:\Users\steph\OneDrive\Documentos\Visual Studio 2022\BootcampDio\SistemaParaEstacionamento\obj\Debug\netcoreapp3.1\SistemaParaEstacionamento.csproj.AssemblyReference.cache
+C:\Users\steph\OneDrive\Documentos\Visual Studio 2022\BootcampDio\SistemaParaEstacionamento\obj\Debug\netcoreapp3.1\SistemaParaEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\OneDrive\Documentos\Visual Studio 2022\BootcampDio\SistemaParaEstacionamento\obj\Debug\netcoreapp3.1\SistemaParaEstacionamento.AssemblyInfoInputs.cache
+C:\Users\steph\OneDrive\Documentos\Visual Studio 2022\BootcampDio\SistemaParaEstacionamento\obj\Debug\netcoreapp3.1\SistemaParaEstacionamento.AssemblyInfo.cs
+C:\Users\steph\OneDrive\Documentos\Visual Studio 2022\BootcampDio\SistemaParaEstacionamento\obj\Debug\netcoreapp3.1\SistemaParaEstacionamento.csproj.CoreCompileInputs.cache
